@@ -22,7 +22,7 @@ export function HeroSection() {
           <div className="w-32 h-32 mx-auto mb-8 relative">
             <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 to-navy-500/20 dark:from-emerald-500/30 dark:to-navy-500/30 rounded-full blur-lg"></div>
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=300"
+              src="/Profile Pic.JPG"
               alt="Asutosh Panigrahi - Profile Photo"
               className="w-48 h-48 object-cover rounded-full shadow-2xl border-4 border-white dark:border-charcoal-900 relative z-10"
             />
