@@ -1,0 +1,93 @@
+%PDF-1.4
+%âÃÄ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 1000
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(ASUTOSH PANIGRAHI) Tj
+0 -24 Td
+(Salesforce Developer • Frontend Engineer) Tj
+0 -12 Td
+(asutosh.panigrahi@email.com | +91-XXXXX-XXXXX) Tj
+0 -36 Td
+(TECHNICAL SKILLS) Tj
+0 -12 Td
+(Languages: Python, JavaScript, HTML, CSS, SQL) Tj
+0 -12 Td
+(Frameworks: React.js, Node.js, Framer Motion) Tj
+0 -12 Td
+(Platforms: Salesforce, AWS, Git, Docker) Tj
+0 -12 Td
+(Databases: MySQL, MongoDB, Salesforce CRM) Tj
+0 -36 Td
+(EXPERIENCE) Tj
+0 -12 Td
+(Salesforce Developer Intern - Spikewell \(2024-Present\)) Tj
+0 -12 Td
+(• E-commerce platform development and automation) Tj
+0 -12 Td
+(• Custom Salesforce solutions and integrations) Tj
+0 -36 Td
+(PROJECTS) Tj
+0 -12 Td
+(Rock Paper Scissors AI - Python, OpenCV) Tj
+0 -12 Td
+(Portfolio Website - React, Framer Motion) Tj
+0 -12 Td
+(E-commerce Platform - Salesforce, Automation) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001325 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1404
+%%EOF
