@@ -24,7 +24,7 @@ export function HeroSection() {
             <img
               src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=300"
               alt="Asutosh Panigrahi - Profile Photo"
-              className="w-full h-full object-cover rounded-full shadow-xl border-4 border-white dark:border-charcoal-900 relative z-10"
+              className="w-48 h-48 object-cover rounded-full shadow-2xl border-4 border-white dark:border-charcoal-900 relative z-10"
             />
           </div>
           
